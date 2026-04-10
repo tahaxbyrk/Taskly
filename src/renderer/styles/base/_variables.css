@@ -1,0 +1,9 @@
+/* Variables */
+
+:root {
+    --bg-color: white;
+    --sidebar-bg: #d1d1d880;
+    --sidebar-search-input-bg: #d1d1d880;
+    --text-color: white;
+    --text-color-2: #495057;
+}
