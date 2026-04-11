@@ -2,7 +2,7 @@
 
 @import url(./base/_variables.css);
 
-@import url(./layout/layout.css);
+@import url(./layout/_layout.css);
 
 @import url(./components/_sidebar.css);
 @import url(./components/_buttons.css);

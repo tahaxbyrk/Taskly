@@ -62,6 +62,10 @@
     margin: 20px;
 }
 
+.sidebarNavigationFooter {
+    padding-top: 200%;
+}
+
 .sidebarMenus {
     color: wheat;
 }

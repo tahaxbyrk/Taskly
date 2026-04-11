@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Taskly</title>
-    <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline';" />
+    <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline';"/>
     <link rel="stylesheet" href="styles/style.css">
 </head>
 <body>
@@ -35,15 +35,19 @@
                         <span id="menuItemText">İmportant</span>
                     </button>
                 </div>
+
                 <div class="separator">
-                    <hr>
+                   <hr>
+                </div>
+                
+                <div class="sidebarNavigationFooter">
+                    <button id="menuItem">
+                        <span id="menuItemIcon"><img src="../../assets/icons/settings.svg"></span>
+                        <span id="menuItemText">Settings</span>
+                    </button>
                 </div>
             </div>
         </aside>
-
-        <maiin class="mainContent">
-            
-        </maiin>
     </div>
 </body>
 </html>
